@@ -11,5 +11,12 @@ int main(){
 	// definição das variáveis
 	int x1,y1,x2,y2;
 	float distancia;
+	
+	// leitura das coordenadas dos pontos
+	printf("Informe as coordenadas para o primeiro ponto: ");
+	scanf("%i %i", &x1, &y1);
+	printf("Informe as coordenadas para o segundo ponto: ");
+	scanf("%i %i", &x2, &y2);
+	
 		
 }
